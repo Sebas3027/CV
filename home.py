@@ -28,13 +28,13 @@ st.markdown("""
 Hi there! I'm **Sebas van Sluijsdam**, a master's student in Computer Science with a background in Data Science & AI.  
 Welcome to my interactive CV! This site lets you explore my skills, experience, education, and more — in a dynamic and data-driven way.
 
-Use the menu on the left to navigate, also make sure your system is in light mode or change the settings in the top right.
+Use the menu on the left to navigate.
 """)
 
 # Optional: Profile picture
 col1, col2 = st.columns([1, 3])
 with col1:
-    st.image("pak zonder benen.jpg", width=180)  # Adjust path or use another image
+    st.image("IMG20250124115819~4.jpg", width=180)  # Adjust path or use another image
 with col2:
     st.markdown("""
     #### 📍 Location  
