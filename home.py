@@ -28,7 +28,7 @@ st.markdown("""
 Hi there! I'm **Sebas van Sluijsdam**, a master's student in Computer Science with a background in Data Science & AI.  
 Welcome to my interactive CV! This site lets you explore my skills, experience, education, and more — in a dynamic and data-driven way.
 
-Use the menu on the left to navigate.
+Use the menu on the left to navigate, also make sure your system is in light mode or change the settings in the top right.
 """)
 
 # Optional: Profile picture
